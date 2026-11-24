@@ -16,6 +16,7 @@ private:
 	Vector2 dashDirection_;	 // ダッシュ方向
 	Vector2 gaugePosition_;  // ゲージの位置
 	Vector2 gaugeSize_;      // ゲージのサイズ
+
 	float size_;			 // プレイヤーのサイズ
 	float speed_;			 // プレイヤーの移動速度
 	int dashFrame_;          // ダッシュの残り時間

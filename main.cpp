@@ -3,7 +3,7 @@
 #include "Player.h"
 #include "Boss.h"
 
-const char kWindowTitle[] = "LC1C_12_スズキ_ユイト";
+const char kWindowTitle[] = "1247_PPPPPPPP";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
@@ -17,7 +17,6 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 
 	// プレイヤーの作成
 	Player player;
-
 	// ボスの作成
 	Boss boss;
 
